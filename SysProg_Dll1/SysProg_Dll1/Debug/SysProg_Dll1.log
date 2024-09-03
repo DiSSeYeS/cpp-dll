@@ -1,0 +1,2 @@
+﻿     Создается библиотека C:\Users\217104\source\repos\SysProg_Dll1\Debug\SysProg_Dll1.lib и объект C:\Users\217104\source\repos\SysProg_Dll1\Debug\SysProg_Dll1.exp
+LINK : fatal error LNK1201: Ошибка при записи в базу данных "C:\Users\217104\source\repos\SysProg_Dll1\Debug\SysProg_Dll1.pdb" программы; возможно, не хватает места на диске, недопустимый путь или недостаточно прав
